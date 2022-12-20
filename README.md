@@ -21,5 +21,9 @@ The item added in a particular list will be persisted when the user navigates to
 <h2> Check out the application</h2>
 Find the application runnning => https://tranquil-everglades-15328.herokuapp.com/
 <h2>Screenshots</h2>
-<![](img/default-image.jpg)>
+<br>
+![homepage]
+(https://github.com/AnnaKondrDeveloper/ToDoList/raw/main/img/image.png)
+
+
 
