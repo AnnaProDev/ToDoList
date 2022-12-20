@@ -23,7 +23,7 @@ Find the application runnning => https://tranquil-everglades-15328.herokuapp.com
 <h2>Screenshots</h2>
 <br>
 ![homepage]
-(https://github.com/AnnaKondrDeveloper/ToDoList/raw/main/img/image.png)
+(https://github.com/AnnaKondrDeveloper/ToDoList/raw/main/img/default-image.jpg)
 
 
 
